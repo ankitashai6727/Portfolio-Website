@@ -1,0 +1,114 @@
+* {
+    padding: 0px;
+    margin: 0px;
+     box-sizing: border-box;
+    
+}
+
+#firstsection {
+    background-color:rgba(227, 204, 202, 0.025);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px
+}
+
+nav ul {
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+
+
+}
+
+#Secondsecotin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(227, 204, 202, 0.025);
+}
+
+.cricelsections {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-image: url('https://images.pexels.com/photos/16333667/pexels-photo-16333667.jpeg');
+    background-size: cover;
+    background-position: center;
+
+
+}
+
+.textsections {
+    height: 300px;
+    width: 300px;
+
+}
+
+.helloText {
+    height: 200px;
+    background-color: rgba(227, 204, 202, 0.025);
+
+}
+
+.circel {
+    height: 100px;
+    background-color: rgba(227, 204, 202, 0.025);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    gap:10px;
+}
+
+.firstcircel {
+    height: 100px;
+    width: 100px;
+    background-color: #64b5eb;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.secondcircel{
+    height: 100px;
+    width: 100px;
+    background-color: #ce2a2a;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    overflow: hidden;
+    box-sizing: border-box;
+
+}
+.thirdcircel{
+        height: 100px;
+    width: 100px;
+    background-color: #edf045;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    overflow: hidden;
+    box-sizing: border-box;
+    
+}
+
+#Thirdsection {
+    display: flex;
+    height: 30vh;
+    background-color:  rgba(227, 204, 202, 0.025);
+    border-top: 1px solid #1b1b1b;
+  padding-top: 20px;
+  text-align: center;
+
+
+}
